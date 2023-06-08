@@ -1,2 +1,2 @@
-# Generate-Srtories1
+# Generate-Stories1
 generate stories for kids
